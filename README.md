@@ -1,13 +1,15 @@
 # asdf-operator-sdk
 
-[![Build Status](https://travis-ci.org/Medium/asdf-operator-sdk.svg?branch=master)](https://travis-ci.org/Medium/asdf-operator-sdk)
+[![Build Status](https://travis-ci.org/pkorobeinikov/asdf-operator-sdk.svg?branch=master)](https://travis-ci.org/pkorobeinikov/asdf-operator-sdk)
 
 [Operator SDK](https://github.com/operator-framework/operator-sdk) plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
+
+Forked version of `Medium/asdf-operator-sdk` with patch `https://github.com/Medium/asdf-operator-sdk/pull/4/files` that just works.
 
 ## Install
 
 ```
-asdf plugin-add operator-sdk https://github.com/Medium/asdf-operator-sdk.git
+asdf plugin-add operator-sdk https://github.com/pkorobeinikov/asdf-operator-sdk.git
 ```
 
 ## Use
