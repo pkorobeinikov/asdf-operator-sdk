@@ -1,6 +1,6 @@
 # asdf-operator-sdk
 
-[![Build Status](https://travis-ci.org/pkorobeinikov/asdf-operator-sdk.svg?branch=master)](https://travis-ci.org/pkorobeinikov/asdf-operator-sdk)
+[![Build Status](https://app.travis-ci.com/pkorobeinikov/asdf-operator-sdk.svg?branch=master)](https://app.travis-ci.com/github/pkorobeinikov/asdf-operator-sdk)
 
 [Operator SDK](https://github.com/operator-framework/operator-sdk) plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
